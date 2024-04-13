@@ -27,7 +27,7 @@ RegisterNumber:  212222040163
 ```
 ```python
 import pandas as pd
-data=pd.read_csv("/content/Placement_Data (2).csv")
+data=pd.read_csv("/content/Placement_Data.csv")
 data.head()
 data1=data.copy()
 data1.head()
@@ -69,8 +69,8 @@ cm_display.plot()
 ```
 
 ## Output:
-![image](https://github.com/SudharsanamRK/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115523484/8206cdcb-c122-4e08-813b-2e0fd4303567)
-![image](https://github.com/SudharsanamRK/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115523484/c73431ac-6720-4934-ab2f-c6e7853e287b)
+![image](https://github.com/SudharsanamRK/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115523484/71edbe6c-41af-4f66-9296-244653c4d100)
+![image](https://github.com/SudharsanamRK/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/115523484/5d5d949a-7834-44a3-a924-e3648d223bee)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
